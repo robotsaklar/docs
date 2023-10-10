@@ -1,0 +1,62 @@
+[CONNECTING]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0
+[DISCONNECTING]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0
+[DISCONNECTING]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0
+[COMMAND]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0/#-#//login rehan023
+[DISCONNECTING]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0
+[COMMAND]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0/#-#//login rehan023
+[COMMAND]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0/#-#//sb
+[CONNECTING]/#-#/jea0p2/#-#/0:0:0:0:0:0:0:1%0
+[COMMAND]/#-#/jea0p2/#-#/0:0:0:0:0:0:0:1%0/#-#//login rehan023
+[DISCONNECTING]/#-#/jea0p2/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p3/#-#/0:0:0:0:0:0:0:1%0
+[COMMAND]/#-#/jea0p3/#-#/0:0:0:0:0:0:0:1%0/#-#//login rehan023
+[CONNECTING]/#-#/jea0p2/#-#/0:0:0:0:0:0:0:1%0
+[DISCONNECTING]/#-#/jea0p3/#-#/0:0:0:0:0:0:0:1%0
+[DISCONNECTING]/#-#/jea0p3/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p3/#-#/0:0:0:0:0:0:0:1%0
+[COMMAND]/#-#/jea0p2/#-#/0:0:0:0:0:0:0:1%0/#-#//sb
+[COMMAND]/#-#/jea0p3/#-#/0:0:0:0:0:0:0:1%0/#-#//sb
+[CONNECTING]/#-#/jea0p4/#-#/0:0:0:0:0:0:0:1%0
+[COMMAND]/#-#/jea0p4/#-#/0:0:0:0:0:0:0:1%0/#-#//login rehan023
+[DISCONNECTING]/#-#/jea0p4/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p4/#-#/0:0:0:0:0:0:0:1%0
+[COMMAND]/#-#/jea0p4/#-#/0:0:0:0:0:0:0:1%0/#-#//sb
+[CONNECTING]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0
+[COMMAND]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0/#-#//login rehan023
+[DISCONNECTING]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0
+[COMMAND]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0/#-#//sb
+[CONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[DISCONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[DISCONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[DISCONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[DISCONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[DISCONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[CONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[DISCONNECTING]/#-#/jea0p6/#-#/0:0:0:0:0:0:0:1%0
+[CHAT]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0/#-#/a
+[COMMAND]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0/#-#//mspay
+[COMMAND]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0/#-#//pay jea0p 30000
+[COMMAND]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0/#-#//bal
+[COMMAND]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0/#-#//pay jea0p 1000
+[CHAT]/#-#/jea0p4/#-#/0:0:0:0:0:0:0:1%0/#-#/a
+[CHAT]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0/#-#/a
+[CHAT]/#-#/jea0p2/#-#/0:0:0:0:0:0:0:1%0/#-#/a
+[CHAT]/#-#/jea0p3/#-#/0:0:0:0:0:0:0:1%0/#-#/a
+[CHAT]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0/#-#/a
+[COMMAND]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0/#-#//tpaccept
+[COMMAND]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0/#-#//tpaccept
+[COMMAND]/#-#/jea0p2/#-#/0:0:0:0:0:0:0:1%0/#-#//tpaccept
+[COMMAND]/#-#/jea0p3/#-#/0:0:0:0:0:0:0:1%0/#-#//tpaccept
+[COMMAND]/#-#/jea0p4/#-#/0:0:0:0:0:0:0:1%0/#-#//tpa jea0p
+[COMMAND]/#-#/jea0p4/#-#/0:0:0:0:0:0:0:1%0/#-#//tpaccept
+[COMMAND]/#-#/jea0p4/#-#/0:0:0:0:0:0:0:1%0/#-#//tpaccept
+[COMMAND]/#-#/jea0p5/#-#/0:0:0:0:0:0:0:1%0/#-#//tpaccept
+[CHAT]/#-#/jea0p1/#-#/0:0:0:0:0:0:0:1%0/#-#/a

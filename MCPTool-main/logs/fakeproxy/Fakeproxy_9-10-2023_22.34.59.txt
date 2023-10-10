@@ -1,0 +1,78 @@
+
+################
+# MCPTool Logs #
+################
+
+[>] General information
+
+[#] Command: fakeproxy
+[#] Time and date: Mon Oct  9 22:34:59 2023
+
+[>] Command information: 
+[#] Server: 139.99.8.233:25565
+[#] Forwarding mode: None
+
+[>] Captured data:
+
+2023-10-09 22:35:26 jea0p1 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:35:29 jea0p1 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:36:38 jea0p1 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:36:38 jea0p1 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:37:01 jea0p1 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:37:17 jea0p1 (0:0:0:0:0:0:0:1%0) has run a command: /login rehan023
+2023-10-09 22:37:19 jea0p1 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:37:27 jea0p1 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:37:29 jea0p1 (0:0:0:0:0:0:0:1%0) has run a command: /login rehan023
+2023-10-09 22:37:32 jea0p1 (0:0:0:0:0:0:0:1%0) has run a command: /sb
+2023-10-09 22:39:03 jea0p2 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:39:23 jea0p2 (0:0:0:0:0:0:0:1%0) has run a command: /login rehan023
+2023-10-09 22:39:33 jea0p2 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:39:49 jea0p3 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:40:03 jea0p3 (0:0:0:0:0:0:0:1%0) has run a command: /login rehan023
+2023-10-09 22:40:13 jea0p2 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:40:21 jea0p3 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:40:21 jea0p3 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:40:29 jea0p3 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:40:29 jea0p2 (0:0:0:0:0:0:0:1%0) has run a command: /sb
+2023-10-09 22:40:31 jea0p3 (0:0:0:0:0:0:0:1%0) has run a command: /sb
+2023-10-09 22:41:32 jea0p4 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:41:42 jea0p4 (0:0:0:0:0:0:0:1%0) has run a command: /login rehan023
+2023-10-09 22:41:45 jea0p4 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:41:47 jea0p4 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:42:05 jea0p4 (0:0:0:0:0:0:0:1%0) has run a command: /sb
+2023-10-09 22:42:31 jea0p5 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:42:41 jea0p5 (0:0:0:0:0:0:0:1%0) has run a command: /login rehan023
+2023-10-09 22:42:46 jea0p5 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:42:57 jea0p5 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:42:59 jea0p5 (0:0:0:0:0:0:0:1%0) has run a command: /sb
+2023-10-09 22:47:41 jea0p6 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:47:49 jea0p6 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:47:54 jea0p6 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:47:54 jea0p6 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:48:02 jea0p6 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:48:02 jea0p6 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:53:41 jea0p6 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:53:41 jea0p6 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:53:51 jea0p6 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:53:51 jea0p6 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 22:54:02 jea0p6 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 22:54:02 jea0p6 (0:0:0:0:0:0:0:1%0) has left the server.
+2023-10-09 23:17:30 jea0p5 (0:0:0:0:0:0:0:1%0) has sent a message: a
+2023-10-09 23:17:40 jea0p5 (0:0:0:0:0:0:0:1%0) has run a command: /mspay
+2023-10-09 23:17:42 jea0p5 (0:0:0:0:0:0:0:1%0) has run a command: /pay jea0p 30000
+2023-10-09 23:17:45 jea0p5 (0:0:0:0:0:0:0:1%0) has run a command: /bal
+2023-10-09 23:17:48 jea0p5 (0:0:0:0:0:0:0:1%0) has run a command: /pay jea0p 1000
+2023-10-10 00:06:32 jea0p4 (0:0:0:0:0:0:0:1%0) has sent a message: a
+2023-10-10 00:06:34 jea0p5 (0:0:0:0:0:0:0:1%0) has sent a message: a
+2023-10-10 00:06:37 jea0p2 (0:0:0:0:0:0:0:1%0) has sent a message: a
+2023-10-10 00:06:37 jea0p3 (0:0:0:0:0:0:0:1%0) has sent a message: a
+2023-10-10 00:06:39 jea0p1 (0:0:0:0:0:0:0:1%0) has sent a message: a
+2023-10-10 00:22:04 jea0p5 (0:0:0:0:0:0:0:1%0) has run a command: /tpaccept
+2023-10-10 00:23:09 jea0p1 (0:0:0:0:0:0:0:1%0) has run a command: /tpaccept
+2023-10-10 00:23:22 jea0p2 (0:0:0:0:0:0:0:1%0) has run a command: /tpaccept
+2023-10-10 00:23:30 jea0p3 (0:0:0:0:0:0:0:1%0) has run a command: /tpaccept
+2023-10-10 00:23:33 jea0p4 (0:0:0:0:0:0:0:1%0) has run a command: /tpa jea0p
+2023-10-10 00:23:48 jea0p4 (0:0:0:0:0:0:0:1%0) has run a command: /tpaccept
+2023-10-10 00:24:12 jea0p4 (0:0:0:0:0:0:0:1%0) has run a command: /tpaccept
+2023-10-10 00:24:33 jea0p5 (0:0:0:0:0:0:0:1%0) has run a command: /tpaccept
+2023-10-10 00:38:17 jea0p1 (0:0:0:0:0:0:0:1%0) has sent a message: a

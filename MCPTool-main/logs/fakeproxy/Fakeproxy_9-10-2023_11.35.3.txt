@@ -1,0 +1,16 @@
+
+################
+# MCPTool Logs #
+################
+
+[>] General information
+
+[#] Command: fakeproxy
+[#] Time and date: Mon Oct  9 11:35:03 2023
+
+[>] Command information: 
+[#] Server: 18.136.148.247:16960
+[#] Forwarding mode: Modern
+
+[>] Captured data:
+

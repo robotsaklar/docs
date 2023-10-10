@@ -1,0 +1,118 @@
+WARN StatusConsoleListener Advanced terminal features are not available in this environment
+[22:35:08 INFO]: Booting up Velocity 3.2.0-SNAPSHOT (git-19abb909-b265)...
+[22:35:08 INFO]: Loading localizations...
+[22:35:08 INFO]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 1.1.x (Linux x86_64) ciphers
+[22:35:08 WARN]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[22:35:08 WARN]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
+[22:35:09 INFO]: Loading plugins...
+[22:35:09 INFO]: Loaded plugin rpoisoner 1.0.0 by wRRulos
+[22:35:09 INFO]: Loaded 1 plugins
+[22:35:09 INFO]: Listening on /[0:0:0:0:0:0:0:0%0]:33330
+[22:35:09 INFO]: Done (2.13s)!
+[22:35:26 INFO]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:58672) has connected
+[22:35:26 INFO]: [server connection] jea0p1 -> lobby has connected
+[22:35:28 INFO]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:58672): kicked from server lobby: Connection Lost & Please Try Again! (Unknown Error)
+[22:35:28 INFO]: [server connection] jea0p1 -> lobby has disconnected
+[22:35:28 INFO]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:58672) has disconnected: You were kicked from lobby: Connection Lost & Please Try Again! (Unknown Error)
+[22:36:29 INFO]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:54474) has connected
+[22:36:29 INFO]: [server connection] jea0p1 -> lobby has connected
+[22:36:31 INFO]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:54474): kicked from server lobby: Connection Lost & Please Try Again! (Unknown Error)
+[22:36:31 INFO]: [server connection] jea0p1 -> lobby has disconnected
+[22:36:31 INFO]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:54474) has disconnected: You were kicked from lobby: Connection Lost & Please Try Again! (Unknown Error)
+[22:37:01 INFO]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:48942) has connected
+[22:37:01 INFO]: [server connection] jea0p1 -> lobby has connected
+[22:37:17 INFO]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:48942) has disconnected
+[22:37:17 INFO]: [server connection] jea0p1 -> lobby has disconnected
+[22:37:25 INFO]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:39698) has connected
+[22:37:25 INFO]: [server connection] jea0p1 -> lobby has connected
+[22:39:02 INFO]: [connected player] jea0p2 (/[0:0:0:0:0:0:0:1%0]:53740) has connected
+[22:39:02 INFO]: [server connection] jea0p2 -> lobby has connected
+[22:39:32 INFO]: [connected player] jea0p2 (/[0:0:0:0:0:0:0:1%0]:53740) has disconnected
+[22:39:32 INFO]: [server connection] jea0p2 -> lobby has disconnected
+[22:39:49 INFO]: [connected player] jea0p3 (/[0:0:0:0:0:0:0:1%0]:58960) has connected
+[22:39:49 INFO]: [server connection] jea0p3 -> lobby has connected
+[22:40:12 INFO]: [connected player] jea0p2 (/[0:0:0:0:0:0:0:1%0]:43970) has connected
+[22:40:12 INFO]: [server connection] jea0p2 -> lobby has connected
+[22:40:20 INFO]: [connected player] jea0p3 (/[0:0:0:0:0:0:0:1%0]:40860) has disconnected: You are already connected to this proxy!
+[22:40:20 INFO]: [connected player] jea0p3 (/[0:0:0:0:0:0:0:1%0]:58960) has disconnected
+[22:40:20 INFO]: [server connection] jea0p3 -> lobby has disconnected
+[22:40:27 INFO]: [connected player] jea0p3 (/[0:0:0:0:0:0:0:1%0]:40882) has connected
+[22:40:27 INFO]: [server connection] jea0p3 -> lobby has connected
+[22:41:32 INFO]: [connected player] jea0p4 (/[0:0:0:0:0:0:0:1%0]:59698) has connected
+[22:41:32 INFO]: [server connection] jea0p4 -> lobby has connected
+[22:41:44 INFO]: [connected player] jea0p4 (/[0:0:0:0:0:0:0:1%0]:59698) has disconnected
+[22:41:44 INFO]: [server connection] jea0p4 -> lobby has disconnected
+[22:41:46 INFO]: [connected player] jea0p4 (/[0:0:0:0:0:0:0:1%0]:48802) has connected
+[22:41:46 INFO]: [server connection] jea0p4 -> lobby has connected
+[22:42:30 INFO]: [connected player] jea0p5 (/[0:0:0:0:0:0:0:1%0]:52356) has connected
+[22:42:30 INFO]: [server connection] jea0p5 -> lobby has connected
+[22:42:45 INFO]: [connected player] jea0p5 (/[0:0:0:0:0:0:0:1%0]:52356) has disconnected
+[22:42:45 INFO]: [server connection] jea0p5 -> lobby has disconnected
+[22:42:55 INFO]: [connected player] jea0p5 (/[0:0:0:0:0:0:0:1%0]:33782) has connected
+[22:42:55 INFO]: [server connection] jea0p5 -> lobby has connected
+[22:47:41 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:58954) has connected
+[22:47:41 INFO]: [server connection] jea0p6 -> lobby has connected
+[22:47:48 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:58954): kicked from server lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:47:48 INFO]: [server connection] jea0p6 -> lobby has disconnected
+[22:47:48 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:58954) has disconnected: You were kicked from lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:47:52 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:35356) has connected
+[22:47:52 INFO]: [server connection] jea0p6 -> lobby has connected
+[22:47:52 INFO]: [server connection] jea0p6 -> lobby has disconnected
+[22:47:52 ERROR]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:35356): disconnected while connecting to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:47:52 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:35356) has disconnected: Unable to connect to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:48:00 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:47076) has connected
+[22:48:00 INFO]: [server connection] jea0p6 -> lobby has connected
+[22:48:00 INFO]: [server connection] jea0p6 -> lobby has disconnected
+[22:48:00 ERROR]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:47076): disconnected while connecting to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:48:00 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:47076) has disconnected: Unable to connect to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:53:41 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:44542) has connected
+[22:53:41 INFO]: [server connection] jea0p6 -> lobby has connected
+[22:53:41 INFO]: [server connection] jea0p6 -> lobby has disconnected
+[22:53:41 ERROR]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:44542): disconnected while connecting to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:53:41 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:44542) has disconnected: Unable to connect to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:53:50 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:54050) has connected
+[22:53:50 INFO]: [server connection] jea0p6 -> lobby has connected
+[22:53:50 INFO]: [server connection] jea0p6 -> lobby has disconnected
+[22:53:50 ERROR]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:54050): disconnected while connecting to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:53:50 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:54050) has disconnected: Unable to connect to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:54:01 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:42176) has connected
+[22:54:01 INFO]: [server connection] jea0p6 -> lobby has connected
+[22:54:01 INFO]: [server connection] jea0p6 -> lobby has disconnected
+[22:54:01 ERROR]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:42176): disconnected while connecting to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:54:01 INFO]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:42176) has disconnected: Unable to connect to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi

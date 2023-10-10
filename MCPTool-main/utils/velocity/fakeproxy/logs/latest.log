@@ -1,0 +1,117 @@
+[22:35:08] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.2.0-SNAPSHOT (git-19abb909-b265)...
+[22:35:08] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[22:35:08] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 1.1.x (Linux x86_64) ciphers
+[22:35:08] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[22:35:08] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
+[22:35:09] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[22:35:09] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin rpoisoner 1.0.0 by wRRulos
+[22:35:09] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 1 plugins
+[22:35:09] [Netty epoll Boss #0/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0%0]:33330
+[22:35:09] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (2.13s)!
+[22:35:26] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:58672) has connected
+[22:35:26] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p1 -> lobby has connected
+[22:35:28] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:58672): kicked from server lobby: Connection Lost & Please Try Again! (Unknown Error)
+[22:35:28] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p1 -> lobby has disconnected
+[22:35:28] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:58672) has disconnected: You were kicked from lobby: Connection Lost & Please Try Again! (Unknown Error)
+[22:36:29] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:54474) has connected
+[22:36:29] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p1 -> lobby has connected
+[22:36:31] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:54474): kicked from server lobby: Connection Lost & Please Try Again! (Unknown Error)
+[22:36:31] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p1 -> lobby has disconnected
+[22:36:31] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:54474) has disconnected: You were kicked from lobby: Connection Lost & Please Try Again! (Unknown Error)
+[22:37:01] [Netty epoll Worker #4/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:48942) has connected
+[22:37:01] [Netty epoll Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p1 -> lobby has connected
+[22:37:17] [Netty epoll Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:48942) has disconnected
+[22:37:17] [Netty epoll Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p1 -> lobby has disconnected
+[22:37:25] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p1 (/[0:0:0:0:0:0:0:1%0]:39698) has connected
+[22:37:25] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p1 -> lobby has connected
+[22:39:02] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p2 (/[0:0:0:0:0:0:0:1%0]:53740) has connected
+[22:39:02] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p2 -> lobby has connected
+[22:39:32] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] jea0p2 (/[0:0:0:0:0:0:0:1%0]:53740) has disconnected
+[22:39:32] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p2 -> lobby has disconnected
+[22:39:49] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p3 (/[0:0:0:0:0:0:0:1%0]:58960) has connected
+[22:39:49] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p3 -> lobby has connected
+[22:40:12] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p2 (/[0:0:0:0:0:0:0:1%0]:43970) has connected
+[22:40:12] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p2 -> lobby has connected
+[22:40:20] [Netty epoll Worker #4/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p3 (/[0:0:0:0:0:0:0:1%0]:40860) has disconnected: You are already connected to this proxy!
+[22:40:20] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] jea0p3 (/[0:0:0:0:0:0:0:1%0]:58960) has disconnected
+[22:40:20] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p3 -> lobby has disconnected
+[22:40:27] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p3 (/[0:0:0:0:0:0:0:1%0]:40882) has connected
+[22:40:27] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p3 -> lobby has connected
+[22:41:32] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p4 (/[0:0:0:0:0:0:0:1%0]:59698) has connected
+[22:41:32] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p4 -> lobby has connected
+[22:41:44] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] jea0p4 (/[0:0:0:0:0:0:0:1%0]:59698) has disconnected
+[22:41:44] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p4 -> lobby has disconnected
+[22:41:46] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p4 (/[0:0:0:0:0:0:0:1%0]:48802) has connected
+[22:41:46] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p4 -> lobby has connected
+[22:42:30] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p5 (/[0:0:0:0:0:0:0:1%0]:52356) has connected
+[22:42:30] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p5 -> lobby has connected
+[22:42:45] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] jea0p5 (/[0:0:0:0:0:0:0:1%0]:52356) has disconnected
+[22:42:45] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p5 -> lobby has disconnected
+[22:42:55] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p5 (/[0:0:0:0:0:0:0:1%0]:33782) has connected
+[22:42:55] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p5 -> lobby has connected
+[22:47:41] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:58954) has connected
+[22:47:41] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has connected
+[22:47:48] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:58954): kicked from server lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:47:48] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has disconnected
+[22:47:48] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:58954) has disconnected: You were kicked from lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:47:52] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:35356) has connected
+[22:47:52] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has connected
+[22:47:52] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has disconnected
+[22:47:52] [Netty epoll Worker #3/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:35356): disconnected while connecting to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:47:52] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:35356) has disconnected: Unable to connect to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:48:00] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:47076) has connected
+[22:48:00] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has connected
+[22:48:00] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has disconnected
+[22:48:00] [Netty epoll Worker #5/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:47076): disconnected while connecting to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:48:00] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:47076) has disconnected: Unable to connect to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:53:41] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:44542) has connected
+[22:53:41] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has connected
+[22:53:41] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has disconnected
+[22:53:41] [Netty epoll Worker #7/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:44542): disconnected while connecting to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:53:41] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:44542) has disconnected: Unable to connect to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:53:50] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:54050) has connected
+[22:53:50] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has connected
+[22:53:50] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has disconnected
+[22:53:50] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:54050): disconnected while connecting to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:53:50] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:54050) has disconnected: Unable to connect to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:54:01] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:42176) has connected
+[22:54:01] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has connected
+[22:54:01] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] jea0p6 -> lobby has disconnected
+[22:54:01] [Netty epoll Worker #5/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:42176): disconnected while connecting to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi
+[22:54:01] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] jea0p6 (/[0:0:0:0:0:0:0:1%0]:42176) has disconnected: Unable to connect to lobby: You are temporally blocked from this server!
+
+Reason: You are connected from too many accounts.
+Discord: https://discord.gg/kandangalwi

@@ -1,0 +1,18 @@
+
+################
+# MCPTool Logs #
+################
+
+[>] General information
+
+[#] Command: fakeproxy
+[#] Time and date: Mon Oct  9 11:37:57 2023
+
+[>] Command information: 
+[#] Server: 139.99.8.233:25565
+[#] Forwarding mode: Modern
+
+[>] Captured data:
+
+2023-10-09 11:38:27 jea0p1 (0:0:0:0:0:0:0:1%0) has entered the server.
+2023-10-09 11:38:27 jea0p1 (0:0:0:0:0:0:0:1%0) has left the server.
